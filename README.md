@@ -12,8 +12,8 @@ pip install requests beautifulsoup4 python-telegram-bot
 2. Вставьте их в переменные `TELEGRAM_BOT_TOKEN` и `TELEGRAM_CHAT_ID`.
 
 ## Запуск
-bash
-python vacancy_parser.py
+
+python parser.py
 
 ## Пример использования
 Просто запустите скрипт, и он отправит подходящие вакансии в Telegram.
